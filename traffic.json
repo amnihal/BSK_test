@@ -85,7 +85,7 @@
         {
           "id": "traffic_jcb_bsk",
           "name": "JCB BSK Traffic",
-          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/jcb /jcb.webp",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/jcb/jcb.webp",
           "sizeMB": 5,
           "price": 30,
           "isSecured": false,
