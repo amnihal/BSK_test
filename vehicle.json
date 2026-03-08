@@ -1,0 +1,63 @@
+{
+  "category": "vehicle",
+  "groups": [
+    {
+      "id": "red",
+      "name": "RED",
+      "thumb": "",
+      "items": [
+        {
+          "id": "red1",
+          "name": "RED1",
+          "thumb": "",
+          "sizeMB": 15,
+          "price": 40,
+          "isSecured": true,
+          "download": "",
+          "fileName": "avtr_tip.zip",
+          "updated": "2026-02-14"
+        },
+        {
+          "id": "red2",
+          "name": "RED2",
+          "thumb": "",
+          "sizeMB": 15,
+          "price": 40,
+          "isSecured": false,
+          "download": "",
+          "fileName": "avtr_tip.zip",
+          "updated": "2026-02-14"
+        }
+      ]
+    },
+    {
+      "id": "white",
+      "name": "WHITE",
+      "thumb": "",
+      "items": [
+        {
+          "id": "white1",
+          "name": "WHITE1",
+          "thumb": "",
+          "sizeMB": 15,
+          "price": 40,
+          "isSecured": true,
+          "download": "",
+          "fileName": "avtr_tip.zip",
+          "updated": "2026-02-14"
+        },
+        {
+          "id": "white2",
+          "name": "WHITE2",
+          "thumb": "",
+          "sizeMB": 15,
+          "price": 40,
+          "isSecured": false,
+          "download": "",
+          "fileName": "avtr_tip.zip",
+          "updated": "2026-02-14"
+        }
+      ]
+    }
+  ]
+}

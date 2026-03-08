@@ -1,0 +1,258 @@
+{
+  "category": "livery",
+  "items": [
+    {
+      "id": "komban_astra_skin",
+      "name": "Komban Skin For Astra Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/komban.webp",
+      "sizeMB": 2,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/komban.png",
+      "fileName": "zero_astra_skin.png",
+      "updated": "2026-02-24"
+    },
+    {
+      "id": "singam_astra_skin",
+      "name": "Singam Skin For Astra Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/singam.jpg",
+      "sizeMB": 2,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/singam.png",
+      "fileName": "zero_astra_skin.png",
+      "updated": "2026-02-24"
+    },
+    {
+      "id": "zero_astra_skin",
+      "name": "Zero Skin For Astra Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zero.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/zero.png",
+      "fileName": "zero_astra_skin.png",
+      "updated": "2026-01-31"
+    },
+    {
+      "id": "khaleefa_astra_skin",
+      "name": "Khaleefa Skin For Astra Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/khaleefa.webp",
+      "sizeMB": 1,
+      "price": 15,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/khaleefa.png",
+      "fileName": "khaleefa_astra_skin.png",
+      "updated": "2026-01-31"
+    },
+    {
+      "id": "karthikeyan_astra_skin",
+      "name": "Karthikeyan Skin For Astra Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/karthikeyan.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/karthikeyan.png",
+      "fileName": "karthikeyan_astra_skin.png",
+      "updated": "2026-01-31"
+    },
+    {
+      "id": "paakkaan_astra_skin",
+      "name": "Paakkaan Skin For Astra Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/pakkaan-astra.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/astra/paakkaan-astra.png",
+      "fileName": "paakkaan_astra_skin.png",
+      "updated": "2026-01-31"
+    },
+    {
+      "id": "black_avtr_skin",
+      "name": "Black Skin For AVTR",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/black_avtr.webp",
+      "sizeMB": 2,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/avtr/black_avtr_skin.png",
+      "fileName": "black_avtr_skin.png",
+      "updated": "2026-02-20"
+    },
+    {
+      "id": "yellow_avtr_skin",
+      "name": "Yellow Skin For AVTR",
+      "thumb": "https://github.com/amnihal/BSK-Companion/releases/download/v1.0.0/yellow_avtr.webp",
+      "sizeMB": 2,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/avtr/yellow_avtr_skin.png",
+      "fileName": "yellow_avtr_skin.png",
+      "updated": "2026-02-20"
+    },
+    {
+      "id": "kaleem_avtr_skin",
+      "name": "Kaleem Skin For AVTR",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/kaleem_avtr.webp",
+      "sizeMB": 3,
+      "price": 10,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/avtr/kaleem_avtr_skin.png",
+      "fileName": "kaleem_avtr_skin.png",
+      "updated": "2026-02-20"
+    },
+    {
+      "id": "toxic_avtr_skin",
+      "name": "Toxic Skin For AVTR",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/toxic_avtr.webp",
+      "sizeMB": 3,
+      "price": 10,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/avtr/toxic_avtr_skin.png",
+      "fileName": "toxic_avtr_skin.png",
+      "updated": "2026-02-16"
+    },
+    {
+      "id": "pinky_avtr_skin",
+      "name": "Pinky Skin For AVTR",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/pinky_avtr.webp",
+      "sizeMB": 5,
+      "price": 10,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/avtr/pinky_avtr_skin.png",
+      "fileName": "pinky_avtr_skin.png",
+      "updated": "2026-02-16"
+    },
+    {
+      "id": "maari_auto_skin",
+      "name": "Maari Skin For Auto Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/maari-auto.webp",
+      "sizeMB": 1,
+      "price": 10,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/auto/auto_skin_maari.png",
+      "fileName": "auto_skin_black.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "normal_auto_skin",
+      "name": "Default Skin For Auto Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/def-auto.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/auto/auto_skin_black.png",
+      "fileName": "auto_skin_black.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "cng_auto_skin",
+      "name": "CNG Green Skin For Auto Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/green-auto.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/auto/auto_skin_green.png",
+      "fileName": "auto_skin_green.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_beauty_rajagouda",
+      "name": "Beauty Rajagouda Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/1.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/beauty_rajagouda.png",
+      "fileName": "bsk3_beauty_rajagouda.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_delmon",
+      "name": "Delmon Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/2.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/delmon.png",
+      "fileName": "bsk3_delmon.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_dorado_sonic",
+      "name": "Dorado Sonic Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/3.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/dorado_sonic.png",
+      "fileName": "bsk3_dorado_sonic.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_dorado_turbo",
+      "name": "Dorado Turbo Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/4.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/dorado_turbo.png",
+      "fileName": "bsk3_dorado_turbo.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_jaiguru_jinn",
+      "name": "Jaiguru Jinn Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/5.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/jaiguru_jinn.png",
+      "fileName": "bsk3_jaiguru_jinn.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_khaleefa_zayd",
+      "name": "Khaleefa Zayd Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/6.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/khaleefa_zayd.png",
+      "fileName": "bsk3_khaleefa_zayd.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_komban_bombay",
+      "name": "Komban Bombay Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/7.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/komban_bombay.png",
+      "fileName": "bsk3_komban_bombay.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_moonlight_wildboy",
+      "name": "Moonlight Wildboy Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/8.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/moonlight_wildboy.png",
+      "fileName": "bsk3_moonlight_wildboy.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "bsk3_shylock",
+      "name": "Shylock Skin For BSK3",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/bsk3/9.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/liveries/bsk3/shylock.png",
+      "fileName": "bsk3_shylock.png",
+      "updated": "2026-02-12"
+    }
+  ]
+}

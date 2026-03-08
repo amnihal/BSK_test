@@ -1,0 +1,32 @@
+{
+  "appVersion": "1.0.8",
+
+  "coinsPerAd": 16,
+
+  "categories": [
+    {
+      "id": "vehicle",
+      "name": "Vehicle",
+      "json": "vehicle.json",
+      "icon": "vehicle"
+    },
+    {
+      "id": "livery",
+      "name": "Livery",
+      "json": "livery.json",
+      "icon": "livery"
+    },
+    {
+      "id": "traffic",
+      "name": "Traffic",
+      "json": "traffic.json",
+      "icon": "traffic"
+    },
+    {
+      "id": "template",
+      "name": "template",
+      "json": "template.json",
+      "icon": "map"
+    }
+  ]
+}

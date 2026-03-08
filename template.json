@@ -1,0 +1,50 @@
+{
+  "category": "vehicles",
+  "items": [
+    {
+      "id": "traffic_avtr_template",
+      "name": "AVTR Template",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/vehicle_leyland_avtr.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/avtr_template.png",
+      "fileName": "avtr_tipper_template.png",
+      "updated": "2026-02-13"
+    },
+    {
+      "id": "traffic_auto_template",
+      "name": "Auto Traffic Template",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/traffic_auto.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/auto_template.png",
+      "fileName": "auto_template.png",
+      "updated": "2026-02-12"
+    },
+    {
+      "id": "Astra traffic template",
+      "name": "Astra Traffic Template",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zero.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/astra_traffic_template.png",
+      "fileName": "astra_traffic_template.png",
+      "updated": "2026-01-31"
+    },
+    {
+      "id": "zedone traffic template",
+      "name": "Zedone Traffic Template",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedone-beta.webp",
+      "sizeMB": 1,
+      "price": 5,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/templates/K2_zed_Whitetemplate.png",
+      "fileName": "K2_zed_Whitetemplate.png",
+      "updated": "2026-01-31"
+    }
+  ]
+}
+

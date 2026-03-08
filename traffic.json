@@ -1,0 +1,82 @@
+{
+  "category": "traffic",
+  "items": [
+    {
+      "id": "traffic_bsk_zedastra",
+      "name": "Astra Vocal Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_vocal.webp",
+      "sizeMB": 8,
+      "price": 40,
+      "isSecured": true,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_zedastra_vocal.bsk",
+      "fileName": "traffic_bsk_zedastra.bsk",
+      "updated": "2026-02-22"
+    },
+    {
+      "id": "traffic_bsk_zedastra_novocal",
+      "name": "Astra Normal Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_normal.webp",
+      "sizeMB": 5,
+      "price": 40,
+      "isSecured": true,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_zedastra_normal.bsk",
+      "fileName": "traffic_bsk_zedastra_novocal.bsk",
+      "updated": "2026-02-22"
+    },
+    {
+      "id": "traffic_autorickshaw_bsk",
+      "name": "Autorickshaw Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/traffic_auto.webp",
+      "sizeMB": 2,
+      "price": 35,
+      "isSecured": true,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_autorickshaw.bsk",
+      "fileName": "traffic_autorickshaw.bsk",
+      "updated": "2026-02-08"
+    },
+    {
+      "id": "traffic_zed1_bsk",
+      "name": "Zedone Beta Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedone-beta.webp",
+      "sizeMB": 6,
+      "price": 40,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_k2_zedone.bsk",
+      "fileName": "traffic_k2_zedone.bsk",
+      "updated": "2026-02-08"
+    },
+    {
+      "id": "traffic_zed1_normal_bsk",
+      "name": "Zedone Beta Normal Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedone-beta-normal.webp",
+      "sizeMB": 6,
+      "price": 30,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_zedone_k2_normal.bsk",
+      "fileName": "traffic_zedone_k2_normal.bsk",
+      "updated": "2026-02-08"
+    },
+    {
+      "id": "traffic_jcb_bsk",
+      "name": "JCB BSK Traffic",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/jcb.webp",
+      "sizeMB": 5,
+      "price": 30,
+      "isSecured": false,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/traffic/traffic_jcb_bsk.bsk",
+      "fileName": "traffic_jcb_bsk.bsk",
+      "updated": "2026-01-31"
+    },
+    {
+      "id": "Loading",
+      "name": "Loading",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/empty.webp",
+      "sizeMB": 12,
+      "price": 0,
+      "isSecured": true,
+      "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/empty.jpg",
+      "fileName": "traffic_astra.zip",
+      "updated": "2026-01-31"
+    }
+  ]
+}
