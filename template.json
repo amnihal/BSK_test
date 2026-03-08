@@ -40,12 +40,12 @@
     {
       "id": "astra",
       "name": "Astra",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zero.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_normal.webp",
       "items": [
         {
           "id": "Astra traffic template",
           "name": "Astra Traffic Template",
-          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zero.webp",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_normal.webp",
           "sizeMB": 1,
           "price": 5,
           "isSecured": false,
@@ -58,12 +58,12 @@
     {
       "id": "zedone",
       "name": "Zedone",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedone-beta.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTraffic/zedone-beta.webp",
       "items": [
         {
           "id": "zedone traffic template",
           "name": "Zedone Traffic Template",
-          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedone-beta.webp",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/zedTraffic/zedone-beta.webp",
           "sizeMB": 1,
           "price": 5,
           "isSecured": false,
