@@ -2,59 +2,19 @@
   "category": "vehicle",
   "groups": [
     {
-      "id": "red",
-      "name": "RED",
-      "thumb": "",
+      "id": "avtr",
+      "name": "LEYLAND AVTR",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/vehicle_leyland_avtr.webp",
       "items": [
         {
-          "id": "red1",
-          "name": "RED1",
-          "thumb": "",
+          "id": "leyland_avtr_bsk_v1",
+          "name": "Leyaland AVTR Tipper",
+          "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/vehicle_leyland_avtr.webp",
           "sizeMB": 15,
           "price": 40,
           "isSecured": true,
-          "download": "",
-          "fileName": "avtr_tip.zip",
-          "updated": "2026-02-14"
-        },
-        {
-          "id": "red2",
-          "name": "RED2",
-          "thumb": "",
-          "sizeMB": 15,
-          "price": 40,
-          "isSecured": false,
-          "download": "",
-          "fileName": "avtr_tip.zip",
-          "updated": "2026-02-14"
-        }
-      ]
-    },
-    {
-      "id": "white",
-      "name": "WHITE",
-      "thumb": "",
-      "items": [
-        {
-          "id": "white1",
-          "name": "WHITE1",
-          "thumb": "",
-          "sizeMB": 15,
-          "price": 40,
-          "isSecured": true,
-          "download": "",
-          "fileName": "avtr_tip.zip",
-          "updated": "2026-02-14"
-        },
-        {
-          "id": "white2",
-          "name": "WHITE2",
-          "thumb": "",
-          "sizeMB": 15,
-          "price": 40,
-          "isSecured": false,
-          "download": "",
-          "fileName": "avtr_tip.zip",
+          "download": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/releases/vehicle/avtr/avtr_tipper_dudemods.bsk",
+          "fileName": "leyland_avtr_bsk_v1.zip",
           "updated": "2026-02-14"
         }
       ]
