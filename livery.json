@@ -4,7 +4,7 @@
     {
       "id": "astra",
       "name": "Astra",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zero.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/astra/zedastra_traffic_normal.webp",
       "items": [
         {
           "id": "komban_astra_skin",
@@ -77,7 +77,7 @@
     {
       "id": "avtr",
       "name": "AVTR",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/black_avtr.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/avtr/vehicle_leyland_avtr.webp",
       "items": [
         {
           "id": "black_avtr_skin",
@@ -139,7 +139,7 @@
     {
       "id": "auto",
       "name": "Auto",
-      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/maari-auto.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/amnihal/BSK-Companion@main/thumbs/auto/traffic_auto.webp",
       "items": [
         {
           "id": "maari_auto_skin",
